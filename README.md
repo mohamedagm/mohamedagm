@@ -14,17 +14,15 @@
 
 <p align="left">
 🚀 Flutter Developer from Egypt 🇪🇬<br>
-📱 Building real-world cross-platform mobile applications with Flutter.<br>
-🧩 Experienced in BLoC/Cubit, Feature-Based Architecture & Repository Pattern.<br>
-🔗 Integrating mobile apps with REST APIs, Dio, and backend services.<br>
-🔐 Working with authentication, access/refresh tokens, and secure session handling.<br>
-🔥 Hands-on with Firebase Authentication, Firestore & Push Notifications.<br>
-⚡ Built real-time features using SignalR and location-based experiences with Google Maps.<br>
-🎨 Focused on responsive UI, localization, reusable components, and polished user experiences.<br>
-🔀 Comfortable with Git, GitHub, Pull Requests, Code Reviews, and conflict resolution.<br>
-🧪 Experienced in exploratory testing, bug reporting, and quality-focused development.<br>
-🤖 Using AI-assisted development to accelerate implementation, debugging, refactoring, and learning.<br>
-📚 Always learning by building, experimenting, and taking on unfamiliar problems.
+📱 Building real-world cross-platform apps with Flutter<br>
+🧩 BLoC/Cubit, Feature-Based Architecture & Repository Pattern<br>
+🔌 REST APIs, Dio & backend integrations<br>
+🔐 Authentication, JWT access/refresh tokens<br>
+🔥 Firebase Auth, Firestore & Push Notifications<br>
+⚡ SignalR & real-time features<br>
+📍 Google Maps & location-based experiences<br>
+🎨 Responsive UI, localization & reusable components<br>
+🌱 AI-assisted development & continuous learning
 </p>
 
 ###
