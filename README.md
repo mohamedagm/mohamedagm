@@ -15,6 +15,7 @@
 <p align="left">
 🚀 Flutter Developer from Egypt 🇪🇬<br>
 📱 Building real-world cross-platform apps with Flutter<br>
+🧱 Experienced in working with legacy codebases.<br>
 🧩 BLoC/Cubit, Feature-Based Architecture & Repository Pattern<br>
 🔌 REST APIs, Dio & backend integrations<br>
 🔐 Authentication, JWT access/refresh tokens<br>
